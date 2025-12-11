@@ -1,6 +1,6 @@
 .env_sota
 data
-summary
+.qodo
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
