@@ -1,3 +1,5 @@
+**Nombre Completo**: Adaptive Dual-Layer Web Application Firewall (ADL-WAF) Leveraging Machine Learning for Enhanced Anomaly and Threat Detection
+
 # Insights
 
 **Limitaciones de WAF Tradicionales**: Muchos modelos tradicionales se basan en la inspección y el control del tráfico HTTP, utilizando Application Learning (AL) para aprender el comportamiento normal e identificar lo sospecho, pero poseen deficiencias significativas:

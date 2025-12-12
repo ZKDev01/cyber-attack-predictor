@@ -1,3 +1,5 @@
+**Nombre Completo**: Adaptively Detecting Malicious Queries in Web Attacks
+
 # Resumen
 
 El documento aborda el problema de la detección de consultas (queries) maliciosas en ataques web, especialmente aquellos que utilizan Code Injection. Los ataques web, que utilizan exclusivamente el protocolo HTTP/HTTPS, han aumentado explosivamente. Los enfoques de detección existentes, ya sean basados en firmas o en anomalías, utilizan modelos constantes o estáticos que se vuelven obsoletos e incapaces de detectar los ataques desconocidos más recientes debido a la sofisticación de los atacantes.

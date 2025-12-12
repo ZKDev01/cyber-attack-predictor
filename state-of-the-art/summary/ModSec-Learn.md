@@ -1,3 +1,5 @@
+**Nombre Completo**: ModSec-Learn: Boosting ModSecurity with Machine Learning
+
 # Resumen
 
 ModSecurity es un reconocido WAF de open-source, mantenido por la fundación OWASP. Es capaz de detectar solicitudes maliciosas comparándolas con el conjunto de reglas básica (CRS), identificando patrones de ataque conocidos. A cada regla se le asigna manualmente un peso según la gravedad del ataque correspondiente y se bloquea una solicitud si la suma de los pesos de las reglas coincidentes excede un umbral determinado. Sin embargo, esta estrategia es ineficaz contra los ataques web, ya que la detección se basa únicamente en heurísticas.
