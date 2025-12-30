@@ -32,3 +32,5 @@ Datasets for performing comparisons between models:
 - [HttpParamsDataset: Repository](https://github.com/Morzeux/HttpParamsDataset)
 - [CSIC 2010 Web Application Attacks](https://www.kaggle.com/datasets/ispangler/csic-2010-web-application-attacks/data)
 - [Web Application Attack Payload Dataset](https://www.kaggle.com/datasets/mreowie/web-application-attack-payload-dataset/data)
+- [Web Server Access Logs: A sample of web server logs file](https://www.kaggle.com/datasets/eliasdabbas/web-server-access-logs/data)
+  - Este dataset posee 10 veces más access log que el dataset objetivo
